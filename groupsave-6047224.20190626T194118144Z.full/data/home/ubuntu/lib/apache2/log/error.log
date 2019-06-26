@@ -1,0 +1,438 @@
+[Tue Sep 05 10:13:12.771808 2017] [mpm_prefork:notice] [pid 3158] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Sep 05 10:13:12.771882 2017] [core:notice] [pid 3158] AH00094: Command line: 'apache2'
+[Tue Sep 05 10:13:23.915785 2017] [mpm_prefork:notice] [pid 3158] AH00169: caught SIGTERM, shutting down
+[Tue Sep 05 10:13:25.014168 2017] [mpm_prefork:notice] [pid 3742] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Sep 05 10:13:25.014235 2017] [core:notice] [pid 3742] AH00094: Command line: 'apache2'
+[Tue Sep 05 10:14:00.410108 2017] [core:info] [pid 3749] [client 10.240.1.18:58750] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/index.html
+[Tue Sep 05 10:17:05.813947 2017] [core:info] [pid 3752] [client 10.240.1.4:41264] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico
+[Tue Sep 05 10:26:19.336071 2017] [core:info] [pid 3752] [client 10.240.1.67:43644] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:26:23.365170 2017] [core:info] [pid 3750] [client 10.240.1.18:48950] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:26:28.696332 2017] [core:info] [pid 3751] [client 10.240.0.224:60982] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:26:34.879178 2017] [core:info] [pid 3753] [client 10.240.1.67:44080] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:26:39.320788 2017] [core:info] [pid 3749] [client 10.240.1.4:57744] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:26:39.693683 2017] [core:info] [pid 3751] [client 10.240.0.224:33166] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:26:43.176919 2017] [core:info] [pid 3752] [client 10.240.0.224:33294] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:26:52.768646 2017] [core:info] [pid 3749] [client 10.240.1.4:58218] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:26:57.604220 2017] [core:info] [pid 3750] [client 10.240.1.31:52096] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:27:49.841157 2017] [core:info] [pid 3752] [client 10.240.1.45:59556] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:29:43.205822 2017] [core:info] [pid 3752] [client 10.240.0.224:39212] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:30:11.726436 2017] [core:info] [pid 3751] [client 10.240.1.18:54574] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:30:22.803704 2017] [core:info] [pid 3829] [client 10.240.1.4:36184] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: http://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:30:39.530589 2017] [core:info] [pid 3753] [client 10.240.1.14:59392] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:30:54.697769 2017] [core:info] [pid 3750] [client 10.240.1.31:58388] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:34:47.150445 2017] [core:info] [pid 3751] [client 10.240.1.67:56134] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:35:42.294509 2017] [core:info] [pid 3749] [client 10.240.0.224:50726] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 10:35:42.561825 2017] [core:info] [pid 3751] [client 10.240.1.4:47220] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 22:44:49.539781 2017] [core:info] [pid 3829] [client 10.240.1.4:55092] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: http://csodhackathon-wenetwork-stemettes.c9users.io/
+[Tue Sep 05 22:44:49.940857 2017] [core:info] [pid 3751] [client 10.240.0.224:40904] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico
+[Fri Sep 08 18:02:28.092118 2017] [core:info] [pid 3752] [client 10.240.0.189:53864] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/
+[Fri Sep 08 18:04:49.361682 2017] [core:info] [pid 3752] [client 10.240.0.224:52902] AH00128: File does not exist: /home/ubuntu/workspace/jss/ratchet.js, referer: http://csodhackathon-wenetwork-stemettes.c9users.io/
+[Fri Sep 08 18:04:49.945636 2017] [core:info] [pid 3749] [client 10.240.1.67:33472] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: http://csodhackathon-wenetwork-stemettes.c9users.io/
+[Sat Sep 09 07:55:11.654478 2017] [mpm_prefork:notice] [pid 3742] AH00169: caught SIGTERM, shutting down
+[Sat Sep 09 07:55:14.145671 2017] [mpm_prefork:notice] [pid 21163] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sat Sep 09 07:55:14.145766 2017] [core:notice] [pid 21163] AH00094: Command line: 'apache2'
+[Sat Sep 09 07:55:29.193938 2017] [core:info] [pid 21170] [client 10.240.0.224:43104] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://csodhackathon-wenetwork-stemettes.c9users.io/index.html.
+[Sun Sep 10 13:24:39.250971 2017] [core:info] [pid 21170] [client 10.240.0.224:58410] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico
+[Mon Mar 26 14:20:48.136682 2018] [core:warn] [pid 2438] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 26 14:20:48.141475 2018] [mpm_prefork:notice] [pid 2438] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Mon Mar 26 14:20:48.141543 2018] [core:notice] [pid 2438] AH00094: Command line: 'apache2'
+[Mon Mar 26 14:20:50.010087 2018] [core:info] [pid 2451] [client 10.240.0.185:45474] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://schroders-weinvest-stemettes.c9users.io/index.html
+[Thu Apr 05 11:28:31.714887 2018] [core:warn] [pid 2711] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 05 11:28:31.720719 2018] [mpm_prefork:notice] [pid 2711] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 11:28:31.720794 2018] [core:notice] [pid 2711] AH00094: Command line: 'apache2'
+[Thu Apr 05 11:28:35.628380 2018] [core:info] [pid 2746] [client 10.240.0.187:44470] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://groupsave-katerinaivask.c9users.io/index.html
+[Thu Apr 05 11:29:00.564871 2018] [mpm_prefork:notice] [pid 2711] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 12:09:58.781821 2018] [mpm_prefork:notice] [pid 8955] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 12:09:58.781885 2018] [core:notice] [pid 8955] AH00094: Command line: 'apache2'
+[Thu Apr 05 12:10:00.268418 2018] [mpm_prefork:notice] [pid 8955] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 12:10:01.580045 2018] [mpm_prefork:notice] [pid 9477] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 12:10:01.580122 2018] [core:notice] [pid 9477] AH00094: Command line: 'apache2'
+[Thu Apr 05 12:10:13.537511 2018] [mpm_prefork:notice] [pid 9477] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 12:10:15.491152 2018] [mpm_prefork:notice] [pid 10006] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 12:10:15.491244 2018] [core:notice] [pid 10006] AH00094: Command line: 'apache2'
+[Thu Apr 05 12:10:47.352780 2018] [mpm_prefork:notice] [pid 10006] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 12:10:48.496565 2018] [mpm_prefork:notice] [pid 10524] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 12:10:48.496633 2018] [core:notice] [pid 10524] AH00094: Command line: 'apache2'
+[Thu Apr 05 12:11:07.159036 2018] [mpm_prefork:notice] [pid 10524] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 12:11:09.446559 2018] [mpm_prefork:notice] [pid 11077] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 12:11:09.446629 2018] [core:notice] [pid 11077] AH00094: Command line: 'apache2'
+[Thu Apr 05 12:13:22.609721 2018] [mpm_prefork:notice] [pid 11077] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 12:13:23.739172 2018] [mpm_prefork:notice] [pid 11630] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 12:13:23.739242 2018] [core:notice] [pid 11630] AH00094: Command line: 'apache2'
+[Thu Apr 05 12:14:34.272414 2018] [mpm_prefork:notice] [pid 11630] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 12:14:35.580096 2018] [mpm_prefork:notice] [pid 12631] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 12:14:35.580196 2018] [core:notice] [pid 12631] AH00094: Command line: 'apache2'
+[Thu Apr 05 12:15:59.849764 2018] [core:info] [pid 12641] [client 10.240.0.90:49214] AH00128: File does not exist: /home/ubuntu/workspace/index.html., referer: https://groupsave-katerinaivask.c9users.io/index.html.
+[Thu Apr 05 12:16:05.275939 2018] [core:info] [pid 12642] [client 10.240.0.88:48522] AH00128: File does not exist: /home/ubuntu/workspace/index.html., referer: https://groupsave-katerinaivask.c9users.io/index.html.
+[Thu Apr 05 12:16:07.261533 2018] [core:info] [pid 12643] [client 10.240.0.87:46022] AH00128: File does not exist: /home/ubuntu/workspace/bit.ly, referer: https://groupsave-katerinaivask.c9users.io/index.html
+[Thu Apr 05 12:24:20.668763 2018] [mpm_prefork:notice] [pid 12631] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:33:19.608620 2018] [mpm_prefork:notice] [pid 19492] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:33:19.608700 2018] [core:notice] [pid 19492] AH00094: Command line: 'apache2'
+[Thu Apr 05 13:34:23.731658 2018] [mpm_prefork:notice] [pid 19492] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:34:24.981599 2018] [mpm_prefork:notice] [pid 20018] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:34:24.981706 2018] [core:notice] [pid 20018] AH00094: Command line: 'apache2'
+[Thu Apr 05 13:34:39.086917 2018] [mpm_prefork:notice] [pid 20018] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:34:41.005348 2018] [mpm_prefork:notice] [pid 20550] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:34:41.005409 2018] [core:notice] [pid 20550] AH00094: Command line: 'apache2'
+[Thu Apr 05 13:36:48.389431 2018] [mpm_prefork:notice] [pid 20550] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:36:50.276958 2018] [mpm_prefork:notice] [pid 21091] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:36:50.277030 2018] [core:notice] [pid 21091] AH00094: Command line: 'apache2'
+[Thu Apr 05 13:39:13.704289 2018] [mpm_prefork:notice] [pid 21091] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:39:15.664643 2018] [mpm_prefork:notice] [pid 22679] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:39:15.664733 2018] [core:notice] [pid 22679] AH00094: Command line: 'apache2'
+[Thu Apr 05 13:39:19.559765 2018] [mpm_prefork:notice] [pid 22679] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:39:21.474658 2018] [mpm_prefork:notice] [pid 23208] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:39:21.474732 2018] [core:notice] [pid 23208] AH00094: Command line: 'apache2'
+[Thu Apr 05 13:42:54.808341 2018] [mpm_prefork:notice] [pid 23208] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:42:56.668767 2018] [mpm_prefork:notice] [pid 23764] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:42:56.668837 2018] [core:notice] [pid 23764] AH00094: Command line: 'apache2'
+[Thu Apr 05 13:47:47.560762 2018] [mpm_prefork:notice] [pid 23764] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:47:49.675852 2018] [mpm_prefork:notice] [pid 24350] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:47:49.675915 2018] [core:notice] [pid 24350] AH00094: Command line: 'apache2'
+[Thu Apr 05 13:50:56.467962 2018] [mpm_prefork:notice] [pid 24350] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:50:57.778598 2018] [mpm_prefork:notice] [pid 24900] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:50:57.778664 2018] [core:notice] [pid 24900] AH00094: Command line: 'apache2'
+[Thu Apr 05 13:58:15.857973 2018] [mpm_prefork:notice] [pid 24900] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:58:18.037067 2018] [mpm_prefork:notice] [pid 25500] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:58:18.037155 2018] [core:notice] [pid 25500] AH00094: Command line: 'apache2'
+[Thu Apr 05 13:58:33.568519 2018] [mpm_prefork:notice] [pid 25500] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 13:58:35.474346 2018] [mpm_prefork:notice] [pid 26041] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 13:58:35.474431 2018] [core:notice] [pid 26041] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:05:39.605639 2018] [mpm_prefork:notice] [pid 26041] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:05:41.730506 2018] [mpm_prefork:notice] [pid 28872] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:05:41.730603 2018] [core:notice] [pid 28872] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:06:12.067716 2018] [mpm_prefork:notice] [pid 28872] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:06:14.474865 2018] [mpm_prefork:notice] [pid 29412] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:06:14.474930 2018] [core:notice] [pid 29412] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:07:25.957045 2018] [mpm_prefork:notice] [pid 29412] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:07:28.014780 2018] [mpm_prefork:notice] [pid 29949] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:07:28.014842 2018] [core:notice] [pid 29949] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:08:31.983781 2018] [mpm_prefork:notice] [pid 29949] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:08:33.227500 2018] [mpm_prefork:notice] [pid 30663] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:08:33.227575 2018] [core:notice] [pid 30663] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:08:33.470523 2018] [mpm_prefork:notice] [pid 30663] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:08:35.486216 2018] [mpm_prefork:notice] [pid 31850] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:08:35.486306 2018] [core:notice] [pid 31850] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:13:11.840200 2018] [mpm_prefork:notice] [pid 31850] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:13:13.709018 2018] [mpm_prefork:notice] [pid 33444] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:13:13.709083 2018] [core:notice] [pid 33444] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:22:31.677730 2018] [mpm_prefork:notice] [pid 33444] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:22:33.670655 2018] [mpm_prefork:notice] [pid 35632] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:22:33.670738 2018] [core:notice] [pid 35632] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:25:33.781049 2018] [mpm_prefork:notice] [pid 35632] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:25:35.842173 2018] [mpm_prefork:notice] [pid 36666] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:25:35.842270 2018] [core:notice] [pid 36666] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:28:02.612537 2018] [mpm_prefork:notice] [pid 36666] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:28:03.832481 2018] [mpm_prefork:notice] [pid 37199] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:28:03.832584 2018] [core:notice] [pid 37199] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:38:48.376494 2018] [mpm_prefork:notice] [pid 37199] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:38:50.433893 2018] [mpm_prefork:notice] [pid 38817] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:38:50.433964 2018] [core:notice] [pid 38817] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:54:27.726564 2018] [mpm_prefork:notice] [pid 38817] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:54:29.556796 2018] [mpm_prefork:notice] [pid 39938] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:54:29.556867 2018] [core:notice] [pid 39938] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:55:07.576050 2018] [mpm_prefork:notice] [pid 39938] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:55:09.442340 2018] [mpm_prefork:notice] [pid 40476] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:55:09.442407 2018] [core:notice] [pid 40476] AH00094: Command line: 'apache2'
+[Thu Apr 05 14:55:53.008022 2018] [mpm_prefork:notice] [pid 40476] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 14:55:54.949040 2018] [mpm_prefork:notice] [pid 41014] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 14:55:54.949130 2018] [core:notice] [pid 41014] AH00094: Command line: 'apache2'
+[Thu Apr 05 15:19:42.242996 2018] [mpm_prefork:notice] [pid 41014] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 15:19:44.159936 2018] [mpm_prefork:notice] [pid 41701] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 15:19:44.160003 2018] [core:notice] [pid 41701] AH00094: Command line: 'apache2'
+[Thu Apr 05 15:19:55.560531 2018] [mpm_prefork:notice] [pid 41701] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 15:19:57.407278 2018] [mpm_prefork:notice] [pid 42233] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 15:19:57.407345 2018] [core:notice] [pid 42233] AH00094: Command line: 'apache2'
+[Thu Apr 05 15:24:05.460083 2018] [mpm_prefork:notice] [pid 42233] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 15:24:07.226203 2018] [mpm_prefork:notice] [pid 42786] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 15:24:07.226264 2018] [core:notice] [pid 42786] AH00094: Command line: 'apache2'
+[Thu Apr 05 15:26:44.021959 2018] [mpm_prefork:notice] [pid 42786] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 15:26:45.926678 2018] [mpm_prefork:notice] [pid 43371] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 15:26:45.926752 2018] [core:notice] [pid 43371] AH00094: Command line: 'apache2'
+[Thu Apr 05 15:29:32.574147 2018] [mpm_prefork:notice] [pid 43371] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 15:29:34.470956 2018] [mpm_prefork:notice] [pid 43928] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 15:29:34.471033 2018] [core:notice] [pid 43928] AH00094: Command line: 'apache2'
+[Thu Apr 05 15:30:46.665860 2018] [mpm_prefork:notice] [pid 43928] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 15:30:48.543144 2018] [mpm_prefork:notice] [pid 44456] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 15:30:48.543246 2018] [core:notice] [pid 44456] AH00094: Command line: 'apache2'
+[Thu Apr 05 15:37:59.010479 2018] [mpm_prefork:notice] [pid 44456] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 15:38:00.963486 2018] [mpm_prefork:notice] [pid 44998] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 15:38:00.963550 2018] [core:notice] [pid 44998] AH00094: Command line: 'apache2'
+[Thu Apr 05 15:38:50.210026 2018] [mpm_prefork:notice] [pid 44998] AH00169: caught SIGTERM, shutting down
+[Thu Apr 05 15:38:51.345927 2018] [mpm_prefork:notice] [pid 46519] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu Apr 05 15:38:51.345998 2018] [core:notice] [pid 46519] AH00094: Command line: 'apache2'
+[Fri Apr 06 09:54:42.884911 2018] [mpm_prefork:notice] [pid 46519] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 09:54:46.511967 2018] [mpm_prefork:notice] [pid 54395] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 09:54:46.512103 2018] [core:notice] [pid 54395] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:04:19.235807 2018] [mpm_prefork:notice] [pid 54395] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:04:20.398070 2018] [mpm_prefork:notice] [pid 55922] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:04:20.398156 2018] [core:notice] [pid 55922] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:04:33.833215 2018] [core:info] [pid 55930] [client 10.240.0.239:33574] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://groupsave-katerinaivask.c9users.io/transaction.html
+[Fri Apr 06 10:06:55.599107 2018] [mpm_prefork:notice] [pid 55922] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:06:57.517526 2018] [mpm_prefork:notice] [pid 56483] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:06:57.517641 2018] [core:notice] [pid 56483] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:08:10.768473 2018] [mpm_prefork:notice] [pid 56483] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:08:12.677288 2018] [mpm_prefork:notice] [pid 57025] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:08:12.677360 2018] [core:notice] [pid 57025] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:12:26.946853 2018] [mpm_prefork:notice] [pid 57025] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:12:28.810944 2018] [mpm_prefork:notice] [pid 58953] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:12:28.811018 2018] [core:notice] [pid 58953] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:13:10.994096 2018] [mpm_prefork:notice] [pid 58953] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:13:12.153148 2018] [mpm_prefork:notice] [pid 59928] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:13:12.153237 2018] [core:notice] [pid 59928] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:17:01.233227 2018] [mpm_prefork:notice] [pid 59928] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:17:03.091435 2018] [mpm_prefork:notice] [pid 61927] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:17:03.091510 2018] [core:notice] [pid 61927] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:17:12.077559 2018] [core:info] [pid 61938] [client 10.240.0.227:51994] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://groupsave-katerinaivask.c9users.io/homepage.html
+[Fri Apr 06 10:20:41.772867 2018] [mpm_prefork:notice] [pid 61927] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:20:43.700129 2018] [mpm_prefork:notice] [pid 66054] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:20:43.700202 2018] [core:notice] [pid 66054] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:20:56.622746 2018] [core:info] [pid 66061] [client 10.240.1.220:52866] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://groupsave-katerinaivask.c9users.io/index.html
+[Fri Apr 06 10:21:11.157791 2018] [mpm_prefork:notice] [pid 66054] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:21:13.104539 2018] [mpm_prefork:notice] [pid 66603] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:21:13.104633 2018] [core:notice] [pid 66603] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:21:39.361799 2018] [mpm_prefork:notice] [pid 66603] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:21:41.202827 2018] [mpm_prefork:notice] [pid 67139] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:21:41.202915 2018] [core:notice] [pid 67139] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:21:44.166036 2018] [mpm_prefork:notice] [pid 67139] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:21:46.015901 2018] [mpm_prefork:notice] [pid 67671] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:21:46.015972 2018] [core:notice] [pid 67671] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:24:10.598678 2018] [mpm_prefork:notice] [pid 67671] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:24:11.775430 2018] [mpm_prefork:notice] [pid 68217] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:24:11.775495 2018] [core:notice] [pid 68217] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:24:51.032710 2018] [mpm_prefork:notice] [pid 68217] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:24:52.165311 2018] [mpm_prefork:notice] [pid 68777] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:24:52.165370 2018] [core:notice] [pid 68777] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:24:52.764096 2018] [mpm_prefork:notice] [pid 68777] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:24:58.802693 2018] [mpm_prefork:notice] [pid 69317] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:24:58.802762 2018] [core:notice] [pid 69317] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:27:14.091966 2018] [mpm_prefork:notice] [pid 69317] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:27:15.224427 2018] [mpm_prefork:notice] [pid 69861] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:27:15.224496 2018] [core:notice] [pid 69861] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:38:16.039981 2018] [mpm_prefork:notice] [pid 69861] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:38:17.185806 2018] [mpm_prefork:notice] [pid 72488] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:38:17.185872 2018] [core:notice] [pid 72488] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:38:22.961436 2018] [mpm_prefork:notice] [pid 72488] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:38:24.840148 2018] [mpm_prefork:notice] [pid 73023] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:38:24.840225 2018] [core:notice] [pid 73023] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:38:27.753983 2018] [mpm_prefork:notice] [pid 73023] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:38:28.655476 2018] [mpm_prefork:notice] [pid 73578] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:38:28.655533 2018] [core:notice] [pid 73578] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:38:28.787869 2018] [mpm_prefork:notice] [pid 73578] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:38:30.188240 2018] [mpm_prefork:notice] [pid 74096] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:38:30.188307 2018] [core:notice] [pid 74096] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:47:02.629565 2018] [mpm_prefork:notice] [pid 74096] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:47:03.816563 2018] [mpm_prefork:notice] [pid 76785] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:47:03.816623 2018] [core:notice] [pid 76785] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:47:14.437471 2018] [mpm_prefork:notice] [pid 76785] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:47:15.372827 2018] [mpm_prefork:notice] [pid 77763] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:47:15.372891 2018] [core:notice] [pid 77763] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:47:15.469566 2018] [mpm_prefork:notice] [pid 77763] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:47:16.191675 2018] [mpm_prefork:notice] [pid 77829] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:47:16.191735 2018] [core:notice] [pid 77829] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:51:20.163228 2018] [mpm_prefork:notice] [pid 77829] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:51:21.309075 2018] [mpm_prefork:notice] [pid 78415] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:51:21.309167 2018] [core:notice] [pid 78415] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:51:29.734843 2018] [mpm_prefork:notice] [pid 78415] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:51:31.718178 2018] [mpm_prefork:notice] [pid 78947] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:51:31.718252 2018] [core:notice] [pid 78947] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:54:17.792611 2018] [mpm_prefork:notice] [pid 78947] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:54:19.713324 2018] [mpm_prefork:notice] [pid 79500] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:54:19.713415 2018] [core:notice] [pid 79500] AH00094: Command line: 'apache2'
+[Fri Apr 06 10:56:24.967877 2018] [mpm_prefork:notice] [pid 79500] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 10:56:26.096960 2018] [mpm_prefork:notice] [pid 80038] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 10:56:26.097023 2018] [core:notice] [pid 80038] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:03:20.629411 2018] [mpm_prefork:notice] [pid 80038] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:03:22.517167 2018] [mpm_prefork:notice] [pid 81705] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:03:22.517243 2018] [core:notice] [pid 81705] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:11:41.808013 2018] [mpm_prefork:notice] [pid 81705] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:11:43.699109 2018] [mpm_prefork:notice] [pid 82333] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:11:43.699172 2018] [core:notice] [pid 82333] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:23:12.913716 2018] [mpm_prefork:notice] [pid 82333] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:23:15.475628 2018] [mpm_prefork:notice] [pid 84280] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:23:15.475710 2018] [core:notice] [pid 84280] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:23:39.343058 2018] [mpm_prefork:notice] [pid 84280] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:23:40.575523 2018] [mpm_prefork:notice] [pid 85312] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:23:40.575584 2018] [core:notice] [pid 85312] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:23:51.683676 2018] [mpm_prefork:notice] [pid 85312] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:23:53.418250 2018] [mpm_prefork:notice] [pid 85848] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:23:53.418309 2018] [core:notice] [pid 85848] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:24:47.564114 2018] [mpm_prefork:notice] [pid 85848] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:24:49.452434 2018] [mpm_prefork:notice] [pid 86423] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:24:49.452514 2018] [core:notice] [pid 86423] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:25:17.812992 2018] [mpm_prefork:notice] [pid 86423] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:25:19.658210 2018] [mpm_prefork:notice] [pid 86964] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:25:19.658284 2018] [core:notice] [pid 86964] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:30:45.334535 2018] [mpm_prefork:notice] [pid 86964] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:30:47.369258 2018] [mpm_prefork:notice] [pid 87549] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:30:47.369324 2018] [core:notice] [pid 87549] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:32:24.109479 2018] [mpm_prefork:notice] [pid 87549] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:32:26.079626 2018] [mpm_prefork:notice] [pid 88109] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:32:26.079693 2018] [core:notice] [pid 88109] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:32:43.273196 2018] [mpm_prefork:notice] [pid 88109] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:32:44.415110 2018] [mpm_prefork:notice] [pid 88637] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:32:44.415182 2018] [core:notice] [pid 88637] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:35:13.580945 2018] [mpm_prefork:notice] [pid 88637] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:35:15.561545 2018] [mpm_prefork:notice] [pid 89189] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:35:15.561622 2018] [core:notice] [pid 89189] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:39:18.617252 2018] [mpm_prefork:notice] [pid 89189] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:39:19.772167 2018] [mpm_prefork:notice] [pid 89752] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:39:19.772234 2018] [core:notice] [pid 89752] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:39:35.156973 2018] [mpm_prefork:notice] [pid 89752] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:39:54.109245 2018] [mpm_prefork:notice] [pid 90288] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:39:54.109339 2018] [core:notice] [pid 90288] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:40:14.961520 2018] [mpm_prefork:notice] [pid 90288] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:40:20.310199 2018] [mpm_prefork:notice] [pid 91536] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:40:20.310279 2018] [core:notice] [pid 91536] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:40:40.728481 2018] [mpm_prefork:notice] [pid 91536] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:40:42.714228 2018] [mpm_prefork:notice] [pid 92394] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:40:42.714312 2018] [core:notice] [pid 92394] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:46:10.185349 2018] [mpm_prefork:notice] [pid 92394] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:46:11.322178 2018] [mpm_prefork:notice] [pid 93015] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:46:11.322239 2018] [core:notice] [pid 93015] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:47:45.179566 2018] [mpm_prefork:notice] [pid 93015] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:47:46.956675 2018] [mpm_prefork:notice] [pid 93586] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:47:46.956747 2018] [core:notice] [pid 93586] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:47:54.954623 2018] [mpm_prefork:notice] [pid 93586] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:47:56.180599 2018] [mpm_prefork:notice] [pid 94115] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:47:56.180664 2018] [core:notice] [pid 94115] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:51:32.495192 2018] [mpm_prefork:notice] [pid 94115] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:51:34.729797 2018] [mpm_prefork:notice] [pid 94666] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:51:34.729879 2018] [core:notice] [pid 94666] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:51:44.360734 2018] [mpm_prefork:notice] [pid 94666] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:51:46.075955 2018] [mpm_prefork:notice] [pid 95410] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:51:46.076023 2018] [core:notice] [pid 95410] AH00094: Command line: 'apache2'
+[Fri Apr 06 11:51:46.541286 2018] [mpm_prefork:notice] [pid 95410] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 11:51:47.683301 2018] [mpm_prefork:notice] [pid 95739] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 11:51:47.683367 2018] [core:notice] [pid 95739] AH00094: Command line: 'apache2'
+[Fri Apr 06 12:50:11.440823 2018] [mpm_prefork:notice] [pid 95739] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 12:50:12.574403 2018] [mpm_prefork:notice] [pid 99516] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 12:50:12.574470 2018] [core:notice] [pid 99516] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:03:08.024651 2018] [mpm_prefork:notice] [pid 99516] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:03:09.887136 2018] [mpm_prefork:notice] [pid 105237] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:03:09.887231 2018] [core:notice] [pid 105237] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:04:29.580597 2018] [mpm_prefork:notice] [pid 105237] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:04:31.439120 2018] [mpm_prefork:notice] [pid 105798] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:04:31.439187 2018] [core:notice] [pid 105798] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:04:32.730267 2018] [mpm_prefork:notice] [pid 105798] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:04:33.870046 2018] [mpm_prefork:notice] [pid 106354] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:04:33.870108 2018] [core:notice] [pid 106354] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:04:50.721002 2018] [mpm_prefork:notice] [pid 106354] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:04:51.867914 2018] [mpm_prefork:notice] [pid 106904] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:04:51.868001 2018] [core:notice] [pid 106904] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:05:15.775788 2018] [mpm_prefork:notice] [pid 106904] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:05:17.761911 2018] [mpm_prefork:notice] [pid 107461] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:05:17.761983 2018] [core:notice] [pid 107461] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:10:01.224507 2018] [mpm_prefork:notice] [pid 107461] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:10:02.373434 2018] [mpm_prefork:notice] [pid 108061] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:10:02.373493 2018] [core:notice] [pid 108061] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:11:01.773939 2018] [mpm_prefork:notice] [pid 108061] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:11:02.909129 2018] [mpm_prefork:notice] [pid 108632] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:11:02.909194 2018] [core:notice] [pid 108632] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:11:38.162486 2018] [mpm_prefork:notice] [pid 108632] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:11:40.078342 2018] [mpm_prefork:notice] [pid 109171] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:11:40.078402 2018] [core:notice] [pid 109171] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:12:39.172780 2018] [mpm_prefork:notice] [pid 109171] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:12:40.941343 2018] [mpm_prefork:notice] [pid 109740] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:12:40.941409 2018] [core:notice] [pid 109740] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:14:43.411949 2018] [mpm_prefork:notice] [pid 109740] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:14:45.396146 2018] [mpm_prefork:notice] [pid 110300] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:14:45.396237 2018] [core:notice] [pid 110300] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:16:55.891812 2018] [mpm_prefork:notice] [pid 110300] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:16:57.912935 2018] [mpm_prefork:notice] [pid 110876] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:16:57.913001 2018] [core:notice] [pid 110876] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:20:08.600655 2018] [mpm_prefork:notice] [pid 110876] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:20:10.441668 2018] [mpm_prefork:notice] [pid 111458] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:20:10.441739 2018] [core:notice] [pid 111458] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:21:14.048927 2018] [mpm_prefork:notice] [pid 111458] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:21:15.941825 2018] [mpm_prefork:notice] [pid 112044] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:21:15.941915 2018] [core:notice] [pid 112044] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:21:31.457332 2018] [mpm_prefork:notice] [pid 112044] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:21:33.269895 2018] [mpm_prefork:notice] [pid 112601] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:21:33.269968 2018] [core:notice] [pid 112601] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:21:46.919902 2018] [mpm_prefork:notice] [pid 112601] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:21:48.682855 2018] [mpm_prefork:notice] [pid 113628] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:21:48.682922 2018] [core:notice] [pid 113628] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:23:14.769328 2018] [mpm_prefork:notice] [pid 113628] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:23:16.672440 2018] [mpm_prefork:notice] [pid 114207] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:23:16.672505 2018] [core:notice] [pid 114207] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:23:51.369341 2018] [mpm_prefork:notice] [pid 114207] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:23:53.284972 2018] [mpm_prefork:notice] [pid 114761] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:23:53.285035 2018] [core:notice] [pid 114761] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:24:41.247495 2018] [mpm_prefork:notice] [pid 114761] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:24:43.068859 2018] [mpm_prefork:notice] [pid 115332] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:24:43.068919 2018] [core:notice] [pid 115332] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:24:59.617824 2018] [mpm_prefork:notice] [pid 115332] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:25:00.804584 2018] [mpm_prefork:notice] [pid 115894] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:25:00.804678 2018] [core:notice] [pid 115894] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:26:11.022371 2018] [mpm_prefork:notice] [pid 115894] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:26:12.166291 2018] [mpm_prefork:notice] [pid 116456] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:26:12.166370 2018] [core:notice] [pid 116456] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:28:39.627863 2018] [core:info] [pid 116466] [client 10.240.0.227:50964] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://groupsave-katerinaivask.c9users.io/Vocation.html
+[Fri Apr 06 13:29:05.735548 2018] [mpm_prefork:notice] [pid 116456] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:29:06.875964 2018] [mpm_prefork:notice] [pid 117027] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:29:06.876027 2018] [core:notice] [pid 117027] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:29:22.391656 2018] [core:info] [pid 117034] [client 10.240.1.97:49608] AH00128: File does not exist: /home/ubuntu/workspace/bit.ly, referer: https://groupsave-katerinaivask.c9users.io/Vocation.html
+[Fri Apr 06 13:29:23.773609 2018] [core:info] [pid 117035] [client 10.240.0.90:41346] AH00128: File does not exist: /home/ubuntu/workspace/bit.ly, referer: https://groupsave-katerinaivask.c9users.io/Vocation.html
+[Fri Apr 06 13:30:55.936991 2018] [mpm_prefork:notice] [pid 117027] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:30:57.232865 2018] [mpm_prefork:notice] [pid 117581] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:30:57.232925 2018] [core:notice] [pid 117581] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:31:51.873060 2018] [mpm_prefork:notice] [pid 117581] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:31:53.182892 2018] [mpm_prefork:notice] [pid 118128] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:31:53.182981 2018] [core:notice] [pid 118128] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:34:20.957797 2018] [core:info] [pid 118135] [client 10.240.1.97:55634] AH00128: File does not exist: /home/ubuntu/workspace/bit.ly
+[Fri Apr 06 13:34:21.700378 2018] [mpm_prefork:notice] [pid 118128] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:34:22.848981 2018] [mpm_prefork:notice] [pid 118677] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:34:22.849073 2018] [core:notice] [pid 118677] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:34:23.405849 2018] [core:info] [pid 118684] [client 10.240.1.220:59660] AH00128: File does not exist: /home/ubuntu/workspace/bit.ly, referer: https://groupsave-katerinaivask.c9users.io/
+[Fri Apr 06 13:36:26.811050 2018] [mpm_prefork:notice] [pid 118677] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:36:27.943039 2018] [mpm_prefork:notice] [pid 119225] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:36:27.943101 2018] [core:notice] [pid 119225] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:36:35.156816 2018] [mpm_prefork:notice] [pid 119225] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:36:36.967483 2018] [mpm_prefork:notice] [pid 119765] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:36:36.967549 2018] [core:notice] [pid 119765] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:37:15.786677 2018] [mpm_prefork:notice] [pid 119765] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:37:19.160828 2018] [mpm_prefork:notice] [pid 121230] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:37:19.160895 2018] [core:notice] [pid 121230] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:37:24.159106 2018] [mpm_prefork:notice] [pid 121230] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:37:26.235360 2018] [mpm_prefork:notice] [pid 121799] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:37:26.235419 2018] [core:notice] [pid 121799] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:38:03.638161 2018] [core:info] [pid 121807] [client 10.240.0.88:36966] AH00128: File does not exist: /home/ubuntu/workspace/home.html
+[Fri Apr 06 13:39:43.754831 2018] [mpm_prefork:notice] [pid 121799] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:39:45.662715 2018] [mpm_prefork:notice] [pid 122360] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:39:45.662781 2018] [core:notice] [pid 122360] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:40:18.778389 2018] [core:info] [pid 122367] [client 10.240.0.87:58582] AH00128: File does not exist: /home/ubuntu/workspace/home.html
+[Fri Apr 06 13:40:27.092310 2018] [mpm_prefork:notice] [pid 122360] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:40:29.095475 2018] [mpm_prefork:notice] [pid 122904] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:40:29.095566 2018] [core:notice] [pid 122904] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:40:29.985316 2018] [core:info] [pid 122912] [client 10.240.1.97:60378] AH00128: File does not exist: /home/ubuntu/workspace/home.html
+[Fri Apr 06 13:40:32.716800 2018] [core:info] [pid 122913] [client 10.240.1.97:60414] AH00128: File does not exist: /home/ubuntu/workspace/home.html
+[Fri Apr 06 13:40:34.415507 2018] [core:info] [pid 122914] [client 10.240.1.97:60430] AH00128: File does not exist: /home/ubuntu/workspace/home.html
+[Fri Apr 06 13:40:39.973930 2018] [core:info] [pid 122915] [client 10.240.1.220:38142] AH00128: File does not exist: /home/ubuntu/workspace/home.html
+[Fri Apr 06 13:40:42.750512 2018] [core:info] [pid 122916] [client 10.240.0.239:38406] AH00128: File does not exist: /home/ubuntu/workspace/home.html
+[Fri Apr 06 13:40:44.660802 2018] [core:info] [pid 122912] [client 10.240.1.220:38266] AH00128: File does not exist: /home/ubuntu/workspace/home.html
+[Fri Apr 06 13:40:51.939462 2018] [core:info] [pid 122913] [client 10.240.0.90:54196] AH00128: File does not exist: /home/ubuntu/workspace/home.html
+[Fri Apr 06 13:40:58.367286 2018] [core:info] [pid 122914] [client 10.240.1.0:56692] AH00128: File does not exist: /home/ubuntu/workspace/home.html
+[Fri Apr 06 13:41:33.387873 2018] [mpm_prefork:notice] [pid 122904] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:41:34.529205 2018] [mpm_prefork:notice] [pid 123440] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:41:34.529284 2018] [core:notice] [pid 123440] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:44:01.980643 2018] [mpm_prefork:notice] [pid 123440] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:44:03.140609 2018] [mpm_prefork:notice] [pid 123989] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:44:03.140673 2018] [core:notice] [pid 123989] AH00094: Command line: 'apache2'
+[Fri Apr 06 13:46:00.563109 2018] [core:info] [pid 124000] [client 10.240.0.90:58794] AH00128: File does not exist: /home/ubuntu/workspace/bit.ly
+[Fri Apr 06 13:46:24.794062 2018] [mpm_prefork:notice] [pid 123989] AH00169: caught SIGTERM, shutting down
+[Fri Apr 06 13:46:25.941028 2018] [mpm_prefork:notice] [pid 124539] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Apr 06 13:46:25.941138 2018] [core:notice] [pid 124539] AH00094: Command line: 'apache2'
+[Fri Apr 06 14:17:28.012789 2018] [core:info] [pid 124547] [client 10.240.0.222:55732] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://groupsave-katerinaivask.c9users.io/Home.html
+[Fri Apr 06 15:19:57.401288 2018] [core:info] [pid 124546] [client 10.240.0.88:45640] AH00128: File does not exist: /home/ubuntu/workspace/Home.html.
+[Fri Apr 06 15:20:01.653337 2018] [core:info] [pid 124547] [client 10.240.0.187:40144] AH00128: File does not exist: /home/ubuntu/workspace/Home.html.
+[Fri Apr 06 16:48:41.362683 2018] [core:info] [pid 124550] [client 10.240.0.88:54988] AH00128: File does not exist: /home/ubuntu/workspace/Home.html .co.uk/schroders/, referer: https://groupsave-katerinaivask.c9users.io/Home.html%20.co.uk/schroders/
+[Sat Apr 07 17:30:23.072775 2018] [core:warn] [pid 2752] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 07 17:30:23.081259 2018] [mpm_prefork:notice] [pid 2752] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sat Apr 07 17:30:23.081340 2018] [core:notice] [pid 2752] AH00094: Command line: 'apache2'
+[Sat Apr 07 17:30:28.086837 2018] [core:info] [pid 2781] [client 10.240.1.220:49512] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://groupsave-katerinaivask.c9users.io/Home.html
+[Wed Jun 26 19:32:51.406491 2019] [core:warn] [pid 2583] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 26 19:32:51.411765 2019] [mpm_prefork:notice] [pid 2583] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Wed Jun 26 19:32:51.411818 2019] [core:notice] [pid 2583] AH00094: Command line: 'apache2'
+[Wed Jun 26 19:32:55.046712 2019] [core:info] [pid 2605] [client 10.240.0.187:42626] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://groupsave-katerinaivask.c9users.io/Home.html
+[Wed Jun 26 19:33:04.294494 2019] [core:info] [pid 2607] [client 10.240.0.227:35182] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://groupsave-katerinaivask.c9users.io/index.html
